@@ -50,7 +50,7 @@ function obtenerCategoriaDesdeURL() {
 // Funcion para obtener los productos del JSON
 
 function obtenerProductos(categoria) {
-    fetch('js/productos.json')
+    fetch('productos.json')
         .then(response => response.json())
         .then((posts) => {
             mostrarProductos(posts, categoria);
