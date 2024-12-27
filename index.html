@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/styles.css">
+    <link rel="stylesheet" href="../css/productos.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <title>Menú Responsive</title>
+</head>
+<body>
+    <header>
+        <div class="header">
+            <div class="logo">
+                <img src="https://fullh4rd.com.ar/img/logo-fh-lg.png" alt="Logo">
+            </div>
+            <nav id="nav" class="navbar">
+                <div id="cerrar" class="cerrar-menu"><i class="fa-solid fa-xmark"></i></div>
+                <ul class="menu">
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="auriculares.html">Auriculares</a></li>
+                    <li><a href="monitores.html">Monitores</a></li>
+                    <li><a href="notebooks.html">Notebooks</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                </ul>
+            </nav>
+            
+            <div class="cart">
+                <div id="abrir" class="abrir-menu"><i class="fa-solid fa-bars"></i></div>
+                <div id="icono-carrito" class="carrito mostrar-carrito"><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></div>
+            </div>
+        </div> 
+    </header>
+    <main>
+        <section class="carrusel">
+            <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                    <button type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                  </div>
+                <div class="carousel-inner">
+                  <div class="carousel-item active">
+                    <img src="https://web.gamingcity.com.ar/static/home-slider/UK-EN-6500X-SE-CASES-1900x500.jpg" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="https://web.gamingcity.com.ar/static/home-slider/KINGSTONPCFORMULA.jpg" class="d-block w-100" alt="...">
+                  </div>
+                  <div class="carousel-item">
+                    <img src="https://web.gamingcity.com.ar/static/home-slider/BANNER%20V1.jpg" class="d-block w-100" alt="...">
+                  </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="visually-hidden">Next</span>
+                </button>
+              </div>
+        </section>
+        <section class="banner-promo">
+            <article class="banner-elemento">
+                <a href="notebooks.html">
+                    <img src="https://fullh4rd.com.ar/assets/Banner_Note.png" alt="">
+                </a>
+            </article>
+        </section>
+        <section class="banner-productos">
+            <div class="contenedor">
+                <div class="container-item">
+                    <div class="item">
+                        <a href="#">
+                            <h2>Notebooks</h2>
+                            <img src="https://http2.mlstatic.com/D_NQ_NP_771686-MLA81192890413_122024-F.webp" alt="">
+                        </a>
+                    </div>
+                </div>
+                <div class="container-item">
+                    <div class="item">
+                        <a href="#">
+                            <h2>Monitores</h2>
+                            <img src="https://imagenes.compragamer.com/home_carrusel_agrupadores/Principal_2_7c19ce0d-8a35-44b8-b73b-75c1e7758441.jpg" alt="">
+                        </a>
+                    </div>
+                    
+                </div>
+                <div class="container-item">
+                    <div class="item">
+                        <a href="#">
+                            <h2>Auriculares</h2>
+                            <img src="https://imagenes.compragamer.com/home_carrusel_agrupadores/Secundaria_8_7bb94f0e-d382-484b-b051-729e5b43d592.jpg" alt="">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="redes-sociales">
+            <div class="contenedor">
+                <a href="#">
+                    <div class="flex-container">
+                        <div class="container-item logo">
+                            <i class="fa-brands fa-instagram"></i>
+                        </div>
+                        <div class="container-item">
+                            <div class="span1"><span>SEGUINOS EN INSTAGRAM</span></div>
+                            <div class="span2"><span>@RYOKO</span></div>
+                        </div>
+                    </div>
+                </a>
+            </div>
+        </section>
+        <section class="seccion-6">
+            <div class="contenedor">
+                <div class="container-item">
+                    <div class="item"><i class="fa-solid fa-truck"></i></div>
+                    <div class="item">
+                        <h2>ENVÍOS GRATIS</h2>
+                        <p>Para compras de más de $200.000</p>
+                    </div>
+                </div>
+                <div class="container-item">
+                    <div class="item"><i class="fa-regular fa-credit-card"></i></div>
+                    <div class="item">
+                        <h2>CUOTAS SIN INTERÉS</h2>
+                        <p>Podés pagar con cualquier tarjeta en hasta 3 cuotas sin interés en tienda online!</p>
+                    </div>
+                </div>
+                <div class="container-item">
+                    <div class="item"><i class="fa-solid fa-lock"></i></div>
+                    <div class="item">
+                        <h2>SITIO SEGURO</h2>
+                        <p>Protegemos tus datos, comprá tranquilamente desde cualquier punto del país.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section id="seccion" class="seccion"></section>
+        <aside id="carrito" class="carrito-lateral">
+            <button id="minimizar-carrito" class="minimizar-carrito"><i class="fa-solid fa-xmark"></i></button>
+            <h2>Carrito de compras</h2>
+            <ul class="carrito-items"></ul>
+            <p><span class="carrito-total"></span></p>
+        </aside>
+    </main>
+    <footer>
+        <div class="footer">
+            <div class="footer-item">
+                <h3>NAVEGACION</h3>
+                <ul class="menu">
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="nosotros.html">PC Armadas</a></li>
+                    <li><a href="monitores.html">Monitores</a></li>
+                    <li><a href="notebooks.html">Notebooks</a></li>
+                    <li><a href="contacto.html">Contacto</a></li>
+                </ul>
+            </div>
+            <div class="footer-item">
+                <h3>MEDIOS DE PAGO</h3>
+                <ul class="tarjetas">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/visa@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/mastercard@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/amex@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/diners@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/ar/cabal@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/ar/tarjeta-naranja@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/ar/tarjeta-shopping@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/ar/argencard@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/ar/cencosud@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/ar/cabaldebit@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/maestro@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/visadebit@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/pagofacil@2x.png" alt="">
+                    <img src="https://d26lpennugtm8s.cloudfront.net/assets/common/img/logos/payment/new_logos_payment/rapipago@2x.png" alt="">
+                </ul>
+            </div>
+            <div class="footer-item">
+                <h3>CONTACTANOS</h3>
+                <ul>
+                    <li>
+                        <i class="fa-solid fa-phone"></i>
+                        <span>41416565</span>
+                    </li>
+                    <li>
+                        <a href="mailto:manu_1025@outlook.com">
+                            <i class="fa-regular fa-envelope"></i>
+                            <span>manu_1025@outlook.com</span>
+                        </a>
+                    </li>
+                    <li>
+                        <i class="fa-solid fa-location-dot"></i>
+                        <span>Av. Rivadavia 1234</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="footer-item">
+                <h3>REDES SOCIALES</h3>
+                <ul class="redes">
+                    <li class="logo-footer"><a href="#" target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                    </li>
+                    <li class="logo-footer"><a href="#"><i class="fa-brands fa-instagram"></i></a>
+                    </li>
+                </ul>
+            </div>
+            
+        </div>
+        <div class="footer-derechos">
+            COPYRIGHT RYOKO - 2024. TODOS LOS DERECHOS RESERVADOS.
+        </div>
+        <aside id="carrito" class="carrito-lateral">
+            <button id="minimizar-carrito" class="minimizar-carrito"><i class="fa-solid fa-xmark"></i></button>
+            <h2>Carrito de compras</h2>
+            <ul class="carrito-items"></ul>
+            <p><span class="carrito-total"></span></p>
+        </aside>
+    </footer>
+    <script src="../js/script.js"></script>
+    <script src="https://kit.fontawesome.com/7ddcef2803.js" crossorigin="anonymous"></script>
+</body>
+</html>

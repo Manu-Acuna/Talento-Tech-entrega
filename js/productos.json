@@ -1,0 +1,178 @@
+[
+    {
+        "id": 1,
+        "nombre": "Acer",
+        "precio": 640000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_780648-MLU79306749609_092024-O.webp",
+        "descripcion": "Laptop Acer Aspire 3 A315-23-r4x5 Amd Ryzen 3 8gb 256gb Ssd W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 2,
+        "nombre": "Asus",
+        "precio": 800000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_930047-MLU76824471200_062024-O.webp",
+        "descripcion": "Laptop Asus Zenbook 14 Ux425ea 14 Fhd I5 8gb 512gb Ssd W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 3,
+        "nombre": "Lenovo",
+        "precio": 700000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_962297-MLA80360516642_112024-O.webp",
+        "descripcion": "Laptop Lenovo Ideapad 3 15.6 Fhd Amd Ryzen 5 8gb 256gb Ssd W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 4,
+        "nombre": "Asus",
+        "precio": 600000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_683136-MLU71107726338_082023-O.webp",
+        "descripcion": "Laptop Asus X515ma-bra-bb14 Celeron 4gb 256gb Ssd 15.6 W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 5,
+        "nombre": "HP",
+        "precio": 900000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_687986-MLU77621914506_072024-O.webp",
+        "descripcion": "Laptop Hp 15-dy2021nr I5 8gb 256gb Ssd 15.6 W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 6,
+        "nombre": "Dell",
+        "precio": 1500000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_676091-MLA80851179159_112024-O.webp",
+        "descripcion": "Laptop Dell Inspiron 15 3501 I5 8gb 256gb Ssd 15.6 W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 7,
+        "nombre": "Asus",
+        "precio": 800000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_654142-MLU74696865689_022024-O.webp",
+        "descripcion": "Laptop Asus Zenbook 14 Ux425ea 14 Fhd I5 8gb 512gb Ssd W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 8,
+        "nombre": "Lenovo",
+        "precio": 1200000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_758532-MLA81508731451_122024-O.webp",
+        "descripcion": "Laptop Lenovo Ideapad 3 15.6 Fhd erfgtjhkritjhriyjhirtjhiwtjhirtyjhr",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 9,
+        "nombre": "HP",
+        "precio": 1000000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_625041-MLU77652155996_072024-O.webp",
+        "descripcion": "Laptop Hp 15-dy2021nr I5 8gb 256gb Ssd 15.6 W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 10,
+        "nombre": "Asus",
+        "precio": 1500000,
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_749705-MLU75965508600_052024-O.webp",
+        "descripcion": "Laptop Asus Tuf Intel I5 11400h 512Gb 16Gb Ram Rtx 2050 Win 11 Home",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 11,
+        "nombre": "Samsung",
+        "precio": 3700000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_772516-MLU74355414770_022024-O.webp",
+        "descripcion": "Laptop Samsung Galaxy Book Pro 360 13.3 I5 8gb 512gb Ssd W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 12,
+        "nombre": "HP",
+        "precio": 2000000,
+        "imagen": "https://http2.mlstatic.com/D_NQ_NP_2X_625041-MLU77652155996_072024-F.webp",
+        "descripcion": "Laptop Hp 15-dy2021nr I5 8gb 256gb Ssd 15.6 W10",
+        "categoria": "Notebook"
+    },
+    {
+        "id": 13,
+        "nombre": "ViewSonic",
+        "precio": 112000,
+        "imagen": "https://fullh4rd.com.ar/img/productos/18/monitor-20-viewsonic-va2055sm-fhd-vga-dvi-0.jpg",
+        "descripcion": "Monitor ViewSonic VA2446M-LED 24\"",
+        "categoria": "Monitor"
+    },
+    {
+        "id": 14,
+        "nombre": "Samsung",
+        "precio": 150000,
+        "imagen": "https://fullh4rd.com.ar/img/productos/18/monitor-27-samsung-led-t350fh-0.jpg",
+        "descripcion": "Monitor Samsung 27\" LED T350FH",
+        "categoria": "Monitor"
+    },
+    {
+        "id": 15,
+        "nombre": "LG",
+        "precio": 200000,
+        "imagen":"https://fullh4rd.com.ar/img/productos/18/monitor-gamer-24-lg-ultragear-24gs60f-borderless-ips-fhd-180hz-1ms-hdmi-dp-0.jpg",
+        "descripcion": "Ultragear 24GS60F IPS 180Hz 1ms",
+        "categoria": "Monitor"
+    },
+    {
+        "id": 16,
+        "nombre":"Phillips",
+        "precio": 180000,
+        "imagen":"https://fullh4rd.com.ar/img/productos/18/monitor-27-philips-272v8la55-full-hd-0.jpg",
+        "descripcion": "Monitor Philips 27\" Full HD",
+        "categoria": "Monitor"
+    },
+    {
+        "id": 17,
+        "nombre": "HyperX",
+        "precio": 125000,
+        "imagen": "https://fullh4rd.com.ar/img/productos/28/auricular-hp-hyperx-cloud-iii-blackred-pc-ps5-xbox-one-727a9aa-0.jpg",
+        "descripcion": "Auricular HyperX Cloud III Black/Red PC PS5 XBOX ONE 727A9AA",
+        "categoria": "Auriculares"
+    },
+    {
+        "id": 18,
+        "nombre": "Razer",
+        "precio": 150000,
+        "imagen":"https://fullh4rd.com.ar/img/productos/28/auricular-gamer-razer-blackshark-v2-x-wired-rz0403240100r3u1-0.jpg",
+        "descripcion": "Auriculares Razer BlackShark V2 X Wired RZ04-03240100-R3U1",
+        "categoria": "Auriculares"
+    },
+    {
+        "id": 19,
+        "nombre": "Logitech",
+        "precio": 120000,
+        "imagen":"https://fullh4rd.com.ar/img/productos/28/auricular-logitech-g435-azul-light-wireless-cmic-981001061-0.jpg",
+        "descripcion": "Auriculares Logitech G435 Azul Light Wireless",
+        "categoria": "Auriculares"
+    },
+    {
+        "id": 20,
+        "nombre": "Corsair",
+        "precio": 325000,
+        "imagen":"https://fullh4rd.com.ar/img/productos/28/auriculares-corsair-gaming-virtuoso-wireless-rgb-white-0.jpg",
+        "descripcion": "Auriculares Corsair Gaming Virtuoso Wireless RGB White",
+        "categoria": "Auriculares"
+    },
+    {
+        "id": 21,
+        "nombre": "HyperX",
+        "precio": 200000,
+        "imagen":"https://fullh4rd.com.ar/img/productos/28/auricular-cmic-hyperx-cloud-stinger-2-519t1aa-0.jpg",
+        "descripcion": "AURICULAR C/MIC HYPERX CLOUD STINGER 2 519T1AA",
+        "categoria": "Auriculares"
+    },
+    {
+        "id": 22,
+        "nombre": "Logitech",
+        "precio": 122000,
+        "imagen":"https://fullh4rd.com.ar/img/productos/28/auricular-wireless-cmic-logitech-vibe-100-white-981001218-0.jpg",
+        "descripcion": "Auriculares Wireless Logitech Vibe 100 White",
+        "categoria": "Auriculares"
+    }
+]
